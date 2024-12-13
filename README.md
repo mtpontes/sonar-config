@@ -11,9 +11,10 @@ Configure o diretório bin no seu no PATH do sistema.
     docker-compose up -d
 
 ## Uso
-Configure o arquivo de properties de acordo com o seu projeto.
+Cole o arquivo de properties na raiz do seu projeto e configure se necessário.
 
-#### Rode o Sonar
+#### Rode o Sonar-Scanner
+Na raiz do projeto, rode o comando:
 
     sonar-scanner
 
