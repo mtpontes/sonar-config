@@ -18,4 +18,4 @@ Na raiz do projeto, rode o comando:
 
     sonar-scanner
 
-#### Acesse o WebApp do [Sonar](http://localhost:9000).
+#### Acesse o WebApp do [Sonar](http://localhost:9000) para visualizar as métricas.
